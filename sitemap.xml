@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://engapi.com/2026/10/AndrewDHubermanProtocols.html</loc>
+    
+    <lastmod>2026-10-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://engapi.com/2026/10/first.html</loc>
     
     <lastmod>2026-10-23</lastmod>
@@ -19,7 +28,21 @@
   </url>
 
   
+  <url>
+    <loc>https://engapi.com/tags/%E4%B9%A6%E7%B1%8D%E6%8E%A8%E8%8D%90/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
+  
+  <url>
+    <loc>https://engapi.com/ggs/%E4%B9%A6%E7%B1%8D/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
   <url>
     <loc>https://engapi.com/ggs/%E9%9A%8F%E7%AC%94/</loc>
