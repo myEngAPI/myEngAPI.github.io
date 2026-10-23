@@ -10,61 +10,20 @@
   <rights>All rights reserved 2026, EngAPI</rights>
   <subtitle>学习英语路上的辅助网站</subtitle>
   <title>EngAPi-英语接口</title>
-  <updated>2026-10-23T04:51:13.000Z</updated>
+  <updated>2026-10-23T06:51:19.000Z</updated>
   <entry>
     <author>
       <name>EngAPI</name>
     </author>
+    <category term="随笔" scheme="https://engapi.com/ggs/%E9%9A%8F%E7%AC%94/"/>
     <content>
-      <![CDATA[<p>正文从这里开始。</p><h2 id="转换"><a href="#转换" class="headerlink" title="转换"></a>转换</h2><p>正常写 Markdown 就行：</p><ul><li>列表</li><li><strong>加粗</strong>、<em>斜体</em>、<code>行内代码</code></li><li><a href="https://example.com/">链接</a></li></ul><figure class="highlight js"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">// 代码块</span></span><br><span class="line"><span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&#x27;hello&#x27;</span>)</span><br></pre></td></tr></table></figure><blockquote><p>引用块</p></blockquote><p>图片放在 <code>source/img/</code> 目录，然后这样引用：</p><p><img src="/img/example.png" alt="图片说明"></p><p><img src="/img/image-20261023125833733.png" alt="image-20261023125833733"></p>]]>
+      <![CDATA[<h2 id="说明"><a href="#说明" class="headerlink" title="说明"></a>说明</h2><p>EngAPi原托管在服务器上，2026年10月的PHP BUG来袭，修复耗费精力，遂改到Github Pages上。</p><p>EngAPi.com域名指向Github Pages，Github Pages关门可能性很小，有利于文档长期保留。</p><p>若有天engapi.com出意外，可以用 <a href="https://myengapi.github.io/">https://myengapi.github.io/</a> 访问，一套人马，两块牌子。</p>]]>
     </content>
     <id>https://engapi.com/2026/10/first.html</id>
     <link href="https://engapi.com/2026/10/first.html"/>
-    <published>2026-10-23T04:51:13.000Z</published>
-    <summary>
-      <![CDATA[<p>正文从这里开始。</p>
-<h2 id="转换"><a href="#转换" class="headerlink" title="转换"></a>转换</h2><p>正常写 Markdown]]>
-    </summary>
-    <title>转github 说明</title>
-    <updated>2026-10-23T04:51:13.000Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>EngAPI</name>
-    </author>
-    <category term="随笔" scheme="https://engapi.com/ggs/%E9%9A%8F%E7%AC%94/"/>
-    <category term="开始" scheme="https://engapi.com/tags/%E5%BC%80%E5%A7%8B/"/>
-    <content>
-      <![CDATA[<p>这是 <strong>EngAPi-英语接口</strong> 的第一篇文章。</p><p><code>hello world</code> 是每个程序员写下的第一句话，也是这个网站的开始。</p><h2 id="关于这个站点"><a href="#关于这个站点" class="headerlink" title="关于这个站点"></a>关于这个站点</h2><p>一个学习英语路上的辅助网站：把平时用到的工具、资料、方法整理在一起，方便自己查阅，也希望对同样在学英语的人有点用。</p><h2 id="以后会写什么"><a href="#以后会写什么" class="headerlink" title="以后会写什么"></a>以后会写什么</h2><ul><li>好用的英语学习工具与网站</li><li>单词、语法、听力、口语的实践笔记</li><li>踩过的坑和解决过程</li></ul><p>如果你也在学英语，欢迎一起交流。</p>]]>
-    </content>
-    <id>https://engapi.com/2026/10/hello-world.html</id>
-    <link href="https://engapi.com/2026/10/hello-world.html"/>
-    <published>2026-10-22T15:05:00.000Z</published>
-    <summary>
-      <![CDATA[<p>这是 <strong>EngAPi-英语接口</strong> 的第一篇文章。</p>
-<p><code>hello world</code> 是每个程序员写下的第一句话，也是这个网站的开始。</p>
-<h2 id="关于这个站点"><a href="#关于这个站点"]]>
-    </summary>
-    <title>hello world</title>
-    <updated>2026-10-22T15:05:00.000Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>EngAPI</name>
-    </author>
-    <category term="随笔" scheme="https://engapi.com/ggs/%E9%9A%8F%E7%AC%94/"/>
-    <category term="开始" scheme="https://engapi.com/tags/%E5%BC%80%E5%A7%8B/"/>
-    <content>
-      <![CDATA[<p>这里是 <strong>EngAPi-英语接口</strong>，一个学习英语路上的辅助网站。</p><h2 id="这个站点的定位"><a href="#这个站点的定位" class="headerlink" title="这个站点的定位"></a>这个站点的定位</h2><p>把平时学英语用到的工具、资料、方法整理在一起，方便自己和同样在学英语的人查阅。</p><h2 id="接下来会写什么"><a href="#接下来会写什么" class="headerlink" title="接下来会写什么"></a>接下来会写什么</h2><ul><li>好用的英语学习工具与网站</li><li>单词、语法、听力、口语的实践笔记</li><li>一些踩坑记录</li></ul><h2 id="关于这篇文章"><a href="#关于这篇文章" class="headerlink" title="关于这篇文章"></a>关于这篇文章</h2><p>这是建站后的第一篇占位文章，用来保证首页能正常生成。</p><blockquote><p>注意：<code>source/_posts</code> 里<strong>至少要保留一篇文章</strong>，否则 Hexo 不会生成 <code>index.html</code>，网站会变成 404。想换成自己的第一篇文章时，把这篇删掉、换成新的即可，但不要一篇都不留。</p></blockquote>]]>
-    </content>
-    <id>https://engapi.com/2026/10/hello.html</id>
-    <link href="https://engapi.com/2026/10/hello.html"/>
-    <published>2026-10-22T14:50:00.000Z</published>
-    <summary>
-      <![CDATA[<p>这里是 <strong>EngAPi-英语接口</strong>，一个学习英语路上的辅助网站。</p>
-<h2 id="这个站点的定位"><a href="#这个站点的定位" class="headerlink"]]>
-    </summary>
-    <title>你好，EngAPI</title>
-    <updated>2026-10-22T14:50:00.000Z</updated>
+    <published>2026-10-23T06:51:19.000Z</published>
+    <summary>engapi.com转github pages的考虑</summary>
+    <title>engapi.com转github pages的考虑</title>
+    <updated>2026-10-23T06:51:19.000Z</updated>
   </entry>
 </feed>
