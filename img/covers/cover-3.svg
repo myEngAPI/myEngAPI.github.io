@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="600" viewBox="0 0 1200 600">
+  <defs>
+    <linearGradient id="g3" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#134e5e"/>
+      <stop offset="100%" stop-color="#71b280"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="600" fill="url(#g3)"/>
+  <circle cx="920" cy="480" r="260" fill="#ffffff" fill-opacity="0.06"/>
+  <circle cx="150" cy="110" r="130" fill="#ffffff" fill-opacity="0.05"/>
+  <text x="70" y="320" font-family="Segoe UI, Microsoft YaHei, Arial, sans-serif" font-size="84" font-weight="700" fill="#ffffff" fill-opacity="0.94">EngAPI</text>
+  <text x="73" y="382" font-family="Segoe UI, Microsoft YaHei, Arial, sans-serif" font-size="28" fill="#ffffff" fill-opacity="0.68">每天一点点，积少成多</text>
+</svg>
