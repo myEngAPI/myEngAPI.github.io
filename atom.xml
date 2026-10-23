@@ -10,7 +10,24 @@
   <rights>All rights reserved 2026, EngAPI</rights>
   <subtitle>学习英语路上的辅助网站</subtitle>
   <title>EngAPi-英语接口</title>
-  <updated>2026-10-22T15:05:00.000Z</updated>
+  <updated>2026-10-23T04:51:13.000Z</updated>
+  <entry>
+    <author>
+      <name>EngAPI</name>
+    </author>
+    <content>
+      <![CDATA[<p>正文从这里开始。</p><h2 id="转换"><a href="#转换" class="headerlink" title="转换"></a>转换</h2><p>正常写 Markdown 就行：</p><ul><li>列表</li><li><strong>加粗</strong>、<em>斜体</em>、<code>行内代码</code></li><li><a href="https://example.com/">链接</a></li></ul><figure class="highlight js"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">// 代码块</span></span><br><span class="line"><span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&#x27;hello&#x27;</span>)</span><br></pre></td></tr></table></figure><blockquote><p>引用块</p></blockquote><p>图片放在 <code>source/img/</code> 目录，然后这样引用：</p><p><img src="/img/example.png" alt="图片说明"></p>]]>
+    </content>
+    <id>https://engapi.com/2026/10/first.html</id>
+    <link href="https://engapi.com/2026/10/first.html"/>
+    <published>2026-10-23T04:51:13.000Z</published>
+    <summary>
+      <![CDATA[<p>正文从这里开始。</p>
+<h2 id="转换"><a href="#转换" class="headerlink" title="转换"></a>转换</h2><p>正常写 Markdown]]>
+    </summary>
+    <title>转github 说明</title>
+    <updated>2026-10-23T04:51:13.000Z</updated>
+  </entry>
   <entry>
     <author>
       <name>EngAPI</name>
