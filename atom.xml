@@ -10,7 +10,26 @@
   <rights>All rights reserved 2026, EngAPI</rights>
   <subtitle>学习英语路上的辅助网站</subtitle>
   <title>EngAPi-英语接口</title>
-  <updated>2026-10-24T02:38:50.000Z</updated>
+  <updated>2026-10-24T07:43:35.000Z</updated>
+  <entry>
+    <author>
+      <name>EngAPI</name>
+    </author>
+    <category term="koreader" scheme="https://engapi.com/ggs/koreader/"/>
+    <category term="koreader" scheme="https://engapi.com/tags/koreader/"/>
+    <category term="kindle" scheme="https://engapi.com/tags/kindle/"/>
+    <content>
+      <![CDATA[<h2 id="缘起"><a href="#缘起" class="headerlink" title="缘起"></a>缘起</h2><p>KOReader是我用过最合心意的阅读软件之一，能导出生词和上下文（所在句子）。</p><p>但KOReader在国内有个使用问题是<strong>不能翻译</strong>（因为用了谷歌翻译），我搜索了下除了host修改外没找到其他解决方案。</p><p>用AI写了个插件“小司机翻译配置”，可以把翻译修改为DeepL或者DeepSeek和通用接口，可以选<strong>免费的</strong>硅基流动。</p><h2 id="代码和下载地址📥"><a href="#代码和下载地址📥" class="headerlink" title="代码和下载地址📥"></a>代码和下载地址📥</h2><blockquote><p>开源代码：<a href="https://github.com/myEngAPI/KOReader-TranslatorChanger">https://github.com/myEngAPI/KOReader-TranslatorChanger</a></p></blockquote><h2 id="视频演示地址📺"><a href="#视频演示地址📺" class="headerlink" title="视频演示地址📺"></a>视频演示地址📺</h2><blockquote><p>视频演示：</p></blockquote><p><a href="https://www.bilibili.com/video/BV138zQBwEXh/">https://www.bilibili.com/video/BV138zQBwEXh/</a><br><a href="https://www.bilibili.com/video/BV1Ja6wB6EnC/">https://www.bilibili.com/video/BV1Ja6wB6EnC/</a></p><h2 id="硅基流动免费模型🆓"><a href="#硅基流动免费模型🆓" class="headerlink" title="硅基流动免费模型🆓"></a>硅基流动免费模型🆓</h2><blockquote><p>这里可以看哪些模型免费（下面视频有说怎么选）</p></blockquote><p><a href="https://cloud.siliconflow.cn/me/models">https://cloud.siliconflow.cn/me/models</a></p><h2 id="界面展示"><a href="#界面展示" class="headerlink" title="界面展示"></a>界面展示</h2><p><img src="/img/koreader-translatorchanger.png" alt="koreader-translatorchanger"></p><h2 id="后记"><a href="#后记" class="headerlink" title="后记"></a>后记</h2><p>尝试了百度翻译，搞不定签名返回的md5加密，放弃。</p><p>平时用的最多的有道词典，没有每月免费额度，价格不如DeepSeek实惠。</p><h2 id="目前测试无问题设备"><a href="#目前测试无问题设备" class="headerlink" title="目前测试无问题设备"></a>目前测试无问题设备</h2><p>✅miui（android）</p><p>✅雷电模拟器</p><p>✅KPW3</p><p>✅KPW6</p><h2 id="视频演示📺"><a href="#视频演示📺" class="headerlink" title="视频演示📺"></a>视频演示📺</h2><blockquote><p>这里是演示视频</p></blockquote><div class="bili-embed" style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.2rem 0;border-radius:10px;background:#000;"><iframe src="https://player.bilibili.com/player.html?bvid=BV1Ja6wB6EnC&page=1&high_quality=1&danmaku=0&autoplay=0" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" scrolling="no" frameborder="0" allowfullscreen="true" loading="lazy"></iframe></div>]]>
+    </content>
+    <id>https://engapi.com/2026/10/kindle-koreader-translatorchanger.html</id>
+    <link href="https://engapi.com/2026/10/kindle-koreader-translatorchanger.html"/>
+    <published>2026-10-24T07:43:35.000Z</published>
+    <summary>
+      <![CDATA[<h2 id="缘起"><a href="#缘起" class="headerlink"]]>
+    </summary>
+    <title>KOReader翻译设置更新了，国内可用免费大模型翻译，OpenAI，硅基流动</title>
+    <updated>2026-10-24T07:43:35.000Z</updated>
+  </entry>
   <entry>
     <author>
       <name>EngAPI</name>
